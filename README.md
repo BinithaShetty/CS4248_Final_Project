@@ -13,3 +13,6 @@
 # Instruction to Logistic Regression file:
 1. open the jupyter notebook on google colab
 2. run code from top to bottom. Have the dataset in the same folder as the code file
+
+
+Dataset can be accessed at : https://drive.google.com/drive/folders/1S8dEGVuUmn8rxbVMdoDBU-DYvtFf6vwe?usp=sharing
